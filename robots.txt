@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://unifouli.github.io/DfR/sitemap_index.txt
+Sitemap: https://unifouli.github.io/SaV/sitemap_index.txt
+Sitemap: https://unifouli.github.io/tiP/sitemap_index.txt
+Sitemap: https://unifouli.github.io/yNm/sitemap_index.txt
